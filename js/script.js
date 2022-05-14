@@ -1,7 +1,7 @@
 const contentWrapper = document.querySelector('.content');
 
 
-const requestUrl = '../data/data.json'
+const requestUrl = 'https://agordiyko.github.io/data/data.json'
 
 
 const createTemplate = data => {
