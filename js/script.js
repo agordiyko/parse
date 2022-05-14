@@ -26,3 +26,6 @@ fetch(requestUrl)
             })
         }
     })
+    .catch(err => {
+        console.log(err.message)
+    });
